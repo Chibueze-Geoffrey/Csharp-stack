@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Csharp stack\obj\Debug\net7.0\Csharp stack.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Csharp stack\obj\Debug\net7.0\Csharp stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Csharp stack\obj\Debug\net7.0\Csharp stack.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Csharp stack\obj\Debug\net7.0\Csharp stack.AssemblyInfo.cs
+C:\Users\HP\Desktop\Csharp stack\obj\Debug\net7.0\Csharp stack.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Csharp stack\bin\Debug\net7.0\Csharp stack.exe
+C:\Users\HP\Desktop\Csharp stack\bin\Debug\net7.0\Csharp stack.deps.json
+C:\Users\HP\Desktop\Csharp stack\bin\Debug\net7.0\Csharp stack.runtimeconfig.json
+C:\Users\HP\Desktop\Csharp stack\bin\Debug\net7.0\Csharp stack.dll
+C:\Users\HP\Desktop\Csharp stack\bin\Debug\net7.0\Csharp stack.pdb
+C:\Users\HP\Desktop\Csharp stack\obj\Debug\net7.0\Csharp stack.dll
+C:\Users\HP\Desktop\Csharp stack\obj\Debug\net7.0\refint\Csharp stack.dll
+C:\Users\HP\Desktop\Csharp stack\obj\Debug\net7.0\Csharp stack.pdb
+C:\Users\HP\Desktop\Csharp stack\obj\Debug\net7.0\Csharp stack.genruntimeconfig.cache
+C:\Users\HP\Desktop\Csharp stack\obj\Debug\net7.0\ref\Csharp stack.dll
